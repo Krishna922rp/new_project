@@ -1,0 +1,31 @@
+.typing-box-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .typing-box {
+    margin-bottom: 20px;
+  }
+  
+  .typing-box input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .statistics {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .timer {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .stat-item {
+    font-size: 16px;
+  }
+  
